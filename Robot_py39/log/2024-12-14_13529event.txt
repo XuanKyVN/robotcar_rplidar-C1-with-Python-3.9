@@ -1,0 +1,3 @@
+2024-12-14 13:05:26.969506, COM4, Standard Serial over Bluetooth link (COM4)
+2024-12-14 13:05:26.969506, COM5, Standard Serial over Bluetooth link (COM5)
+2024-12-14 13:05:26.970014, COM14, USB Serial Device (COM14)
